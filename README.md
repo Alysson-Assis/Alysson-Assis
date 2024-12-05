@@ -10,7 +10,7 @@
 - **Linguagens**: TypeScript ⚡, React ⚛️, Python 🐍
 - **Cloud**: AWS ☁️
 - **Bancos de Dados**: MySQL 🗃️, Firebase 🔥
-- **Inglês**: Avançado (B1) 🇬🇧
+- **Inglês**: Avançado (B1)
 
 <hr>
 
