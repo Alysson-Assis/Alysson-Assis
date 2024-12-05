@@ -1,4 +1,4 @@
-<h1 align="center">Benvindo(a),sou o Alysson Santos 😎 🍷</h1>
+<h1 align="center">Bem vindo(a),sou o Alysson Santos 😎 🍷</h1>
 
 <h2 align="center">Desenvolvedor Web & Analista de Dados 💻📊</h2>
 <h3 align="center">Graduando em Desenvolvimento e Análise de Sistemas no SENAC 🎓</h3>
